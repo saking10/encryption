@@ -14,6 +14,6 @@ Matrice m=new Matrice("tpsit");
 
     Thread t1 = newThread(v1);
       t.start();
-
+//test
  }
 }  
